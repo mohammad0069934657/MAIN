@@ -1,0 +1,17 @@
+{
+    "name": "Mohammad",
+    "require": {
+        "firebase/php-jwt": "^6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dni\\Main\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohammad",
+            "email": "mmkhtaryan@gmail.com"
+        }
+    ]
+}
